@@ -157,7 +157,7 @@ layout: mydefault
   <section class="hero teaser">
     <div class="container is-max-desktop">
       <div class="hero-body">
-        <h2 class="subtitle has-text-centered">
+        <h2 class="subtitle">
           This is the website for <a href="xxxxx" target="_blank">(M)LLM-based OS Agents for General Computing Devices Control: A Survey</a>: A Survey. The survey consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmark, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
         </h2>
 <!--         <img src="static/images/inficoder-eval-main.png"> -->
@@ -172,9 +172,7 @@ layout: mydefault
         <h2 class="title is-3" id='table-of-contents'>Table of Contents</h2>
         <div class="content has-text-justified">
           <ul>
-              <li><p><a href='#table-of-contents'>Table of Contents</a></p>
-              </li>
-              <li><p><a href='#overview-of-xxx'>Overview of xxx</a></p>
+              <li><p><a href='#overview-of-survey'>Overview of Survey</a></p>
               </li>
               <li><p><a href='#papers'>Papers</a></p>
                   <ul>
@@ -184,13 +182,9 @@ layout: mydefault
                       <li><a href='#safety--privacy'>Safety &amp; Privacy</a></li>
                   </ul>
               </li>
-              <li><p><a href='#related-repositories'>Related Repositories</a></p>
-              </li>
               <li><p><a href='#contact'>Contact</a></p>
               </li>
               <li><p><a href='#acknowledgement'>Acknowledgement</a></p>
-              </li>
-	      <li><p><a href='#citation'>Citation</a></p>
               </li>
           </ul>
         </div>
@@ -493,22 +487,6 @@ layout: mydefault
     </div>
   </section>
 
-  <section class="section">
-    <div class="container is-max-desktop">
-      <!-- Example. -->
-      <div class="columns is-centered has-text-centered">
-        <div class="column is-four-fifths">
-          <h2 class="title is-3" id='related-repositories'>Related Repositories</h2>
-          <div class="content has-text-justified">
-            <p>
-
-            </p>
-          </div>
-        </div>
-      </div>
-      <!--/ Example. -->
-    </div>
-  </section>
 
   <section class="section">
     <div class="container is-max-desktop">
