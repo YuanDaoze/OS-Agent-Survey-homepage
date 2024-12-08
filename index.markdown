@@ -171,11 +171,12 @@ layout: mydefault
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
+        <h2 class="title is-3" id='table-of-contents'>Table of Contents</h2>
         <div class="content has-text-justified">
           <ul>
               <li><p><a href='#overview-of-survey' style="font-size: 1.5rem;" >Overview of Survey</a></p>
               </li>
-              <li><p><a href='#papers'>Papers</a></p>
+              <li><p><a href='#papers' style="font-size: 1.5rem;" >Papers</a></p>
                   <ul>
                       <li><a href='#foundation-models' style="font-size: 1.5rem;" >Foundation Models</a></li>
                       <li><a href='#agent-frameworks' style="font-size: 1.5rem;" >Agent Frameworks</a></li>
