@@ -168,10 +168,9 @@ layout: mydefault
   </section>
 
 <section class="section">
-  <div class="container is-max-desktop" style="display: flex; justify-content: center;">
+  <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths" style="text-align: left;">
-        <h2 class="title is-3" id='table-of-contents'>Table of Contents</h2>
+      <div class="column is-four-fifths">
         <div class="content has-text-justified">
           <ul>
               <li><p><a href='#overview-of-survey' style="font-size: 1.5rem;" >Overview of Survey</a></p>
