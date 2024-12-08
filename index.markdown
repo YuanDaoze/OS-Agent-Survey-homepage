@@ -198,11 +198,12 @@ layout: mydefault
       <!-- Abstract. -->
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
-          <h2 class="title is-3" id='overview-of-xxx'>Overview of xxx</h2>
+          <h2 class="title is-3" id='overview-of-xxx'>Overview of Survey</h2>
           <div class="content has-text-justified">
             <p>
  		<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="static/images/teaser_os_agent_page.jpg">
-		xxxxxxxxx
+		This survey aims to make contributions to the research and development of OS Agents by providing readers with a comprehensive understanding of their essential capabilities, offering insights into methodologies for building OS Agents based on (M)LLMs, and highlighting the latest research trends, challenges and future in this field. Recognizing that OS Agents are still in their early stages of development, we acknowledge the rapid advancements that continue to introduce novel methodologies and applications. Through this work, we aspire to inspire further innovation, driving progress in both academic research and industrial applications of OS Agents.
+  
             </p>
           </div>
         </div>
