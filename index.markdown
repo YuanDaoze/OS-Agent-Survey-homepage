@@ -476,7 +476,7 @@ layout: mydefault
 		<li>[2024/07/12] Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study.  [<a href='https://arxiv.org/abs/2407.09295'>paper</a>]</li>
 		<li>[2024/06/18] Adversarial Attacks on Multimodal Agents.  [<a href='https://arxiv.org/abs/2406.12814'>paper</a>]</li>
 		<li>[2024/02/26] WIPI: A New Web Threat for LLM-Driven Web Agents.  [<a href='https://arxiv.org/abs/2402.16965'>paper</a>]</li>
-		<li>[2023/08/03] From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application?.  [<a href='https://arxiv.org/abs/2308.01990'>paper</a>]</li>
+		<li>[2023/08/03] From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application?  [<a href='https://arxiv.org/abs/2308.01990'>paper</a>]</li>
     
               </ol>
           </div>
