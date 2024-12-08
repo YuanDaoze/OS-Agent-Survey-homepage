@@ -60,6 +60,8 @@ layout: mydefault
           </span>
         </a>
 
+	<!-- 修改团队主页 -->
+ 
         <div class="navbar-item has-dropdown is-hoverable">
           <a class="navbar-link">
             More
@@ -120,7 +122,7 @@ layout: mydefault
                 </span>
                 <!-- Dataset Link. -->
                 <span class="link-block">
-                  <a href="https://github.com/infi-coder/infibench-evaluation-harness/"
+                  <a href="https://github.com/YuanDaoze/OS-Agent-Survey-test"
                      class="external-link button is-normal is-rounded is-dark" target='_blank'>
                     <span class="icon">
                       <i class="fab fa-github"></i>
@@ -172,7 +174,7 @@ layout: mydefault
         <h2 class="title is-3" id='table-of-contents'>Table of Contents</h2>
         <div class="content has-text-justified">
           <ul>
-              <li><p><a href='#overview-of-survey'>Overview of Survey</a></p>
+              <li><p><a href='#overview-of-survey' style="font-size: 1.2rem;" >Overview of Survey</a></p>
               </li>
               <li><p><a href='#papers'>Papers</a></p>
                   <ul>
