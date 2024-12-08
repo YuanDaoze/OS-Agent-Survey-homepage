@@ -168,25 +168,25 @@ layout: mydefault
   </section>
 
 <section class="section">
-  <div class="container is-max-desktop">
+  <div class="container is-max-desktop" style="display: flex; justify-content: center;">
     <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
+      <div class="column is-four-fifths" style="text-align: left;">
         <h2 class="title is-3" id='table-of-contents'>Table of Contents</h2>
         <div class="content has-text-justified">
           <ul>
-              <li><p><a href='#overview-of-survey' style="font-size: 1.2rem;" >Overview of Survey</a></p>
+              <li><p><a href='#overview-of-survey' style="font-size: 1.5rem;" >Overview of Survey</a></p>
               </li>
               <li><p><a href='#papers'>Papers</a></p>
                   <ul>
-                      <li><a href='#foundation-models'>Foundation Models</a></li>
-                      <li><a href='#agent-frameworks'>Agent Frameworks</a></li>
-                      <li><a href='#evaluation--benchmark'>Evaluation &amp; Benchmark</a></li>
-                      <li><a href='#safety--privacy'>Safety &amp; Privacy</a></li>
+                      <li><a href='#foundation-models' style="font-size: 1.5rem;" >Foundation Models</a></li>
+                      <li><a href='#agent-frameworks' style="font-size: 1.5rem;" >Agent Frameworks</a></li>
+                      <li><a href='#evaluation--benchmark' style="font-size: 1.5rem;" >Evaluation &amp; Benchmark</a></li>
+                      <li><a href='#safety--privacy' style="font-size: 1.5rem;" >Safety &amp; Privacy</a></li>
                   </ul>
               </li>
-              <li><p><a href='#contact'>Contact</a></p>
+              <li><p><a href='#contact' style="font-size: 1.5rem;" >Contact</a></p>
               </li>
-              <li><p><a href='#acknowledgement'>Acknowledgement</a></p>
+              <li><p><a href='#acknowledgement' style="font-size: 1.5rem;" >Acknowledgement</a></p>
               </li>
           </ul>
         </div>
