@@ -77,7 +77,7 @@ layout: mydefault
 
   <div class="container">
     <div class="column has-text-centered">
-      <img style="max-width: 200px; margin-bottom: -50px;" src="static/images/inficoder_eval_logo3.png">
+      <img style="max-width: 200px; margin-bottom: -50px;" src="static/images/survey_title_log.jpeg">
     </div>
   </div>
 
@@ -158,7 +158,7 @@ layout: mydefault
     <div class="container is-max-desktop">
       <div class="hero-body">
         <h2 class="subtitle has-text-centered">
-          InfiBench is a xxxxx
+          This is the website for <a href="xxxxx" target="_blank">(M)LLM-based OS Agents for General Computing Devices Control: A Survey</a>: A Survey. The survey consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmark, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
         </h2>
 <!--         <img src="static/images/inficoder-eval-main.png"> -->
       </div>
