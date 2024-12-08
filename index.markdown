@@ -86,7 +86,7 @@ layout: mydefault
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">A Survey on OS Agents
+            <h1 class="title is-1 publication-title">(M)LLM-based OS Agents for General Computing Devices Control: A Survey
             </h1>
             <div class="is-size-5 publication-authors">
               <span class="author-block">
