@@ -67,7 +67,7 @@ layout: mydefault
             More
           </a>
           <div class="navbar-dropdown">
-            <a class="navbar-item" href="[https://github.com/infi-coder](https://infiagent.github.io/)">
+            <a class="navbar-item" href="https://infiagent.github.io/">
               InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks
             </a>
           </div>
