@@ -6,10 +6,10 @@ layout: mydefault
 
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="(M)LLM-based OS Agents for General Computing Devices Control: A Survey">
+  <meta name="description" content="OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control">
   <meta name="keywords" content="InfiCoder-Eval, code-generation, large-language-model, benchmark">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>(M)LLM-based OS Agents for General Computing Devices Control: A Survey</title>
+  <title>OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control</title>
 
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 
@@ -88,7 +88,7 @@ layout: mydefault
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">(M)LLM-based OS Agents for General Computing Devices Control: A Survey
+            <h1 class="title is-1 publication-title">OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control
             </h1>
             <div class="is-size-5 publication-authors">
               <span class="author-block">
@@ -160,7 +160,7 @@ layout: mydefault
     <div class="container is-max-desktop">
       <div class="hero-body">
         <h2 class="subtitle">
-          This is the website for <a href="xxxxx" target="_blank">(M)LLM-based OS Agents for General Computing Devices Control: A Survey</a>. The survey consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmark, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
+          This is the website for <a href="xxxxx" target="_blank">OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control</a>. The survey consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: Foundation Models, Agent Frameworks, Evaluation & Benchmark, and Safety & Privacy and this collection will be continuously updated. You can easily access comprehensive knowledge on the OS Agent field and quickly familiarize yourself with this research direction.
         </h2>
 <!--         <img src="static/images/inficoder-eval-main.png"> -->
       </div>
