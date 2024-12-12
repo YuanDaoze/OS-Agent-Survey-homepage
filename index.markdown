@@ -79,7 +79,7 @@ layout: mydefault
 
   <div class="container">
     <div class="column has-text-centered">
-      <img style="max-width: 200px; margin-bottom: -50px;" src="static/images/survey_title_log.jpeg">
+      <img style="max-width: 200px; margin-bottom: -50px;" src="static/images/title_log_v3.jpg">
     </div>
   </div>
 
