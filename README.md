@@ -1,6 +1,6 @@
-# InfiBench
+# OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control
 
-This is the repository that contains source code for the [InfiBench](https://infi-coder.github.io/infibench/) website.
+This is the repository that contains source code for the [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Control](https://infi-coder.github.io/infibench/) website.
 
 ```
 
